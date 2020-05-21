@@ -1,3 +1,5 @@
+// Classe fizzbuzz pour tester les developpeurs
+
 public class Fizzbuzz {
     public static void main(String[] args) {
         for (int i = 1 ; i<= 200 ; i++){
